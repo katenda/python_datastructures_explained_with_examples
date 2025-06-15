@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in Python
+# Data Structures and Algorithms in Python by enock katend
 
 Welcome to this interactive learning session on data structures and algorithms using Python. Here, we will explore various data structures and algorithms, understand their concepts, and implement them with practical examples.
 
